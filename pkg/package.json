@@ -1,0 +1,22 @@
+{
+  "name": "usvgjs",
+  "type": "module",
+  "version": "0.1.0",
+  "repository": "seanghay/usvgjs",
+  "license": "MIT",
+  "author": {
+    "email": "seanghay.dev@gmail.com",
+    "name": "Seanghay Yath",
+    "url": "https://github.com/seanghay"
+  },
+  "files": [
+    "usvgjs_bg.wasm",
+    "usvgjs.js",
+    "usvgjs.d.ts"
+  ],
+  "main": "usvgjs.js",
+  "types": "usvgjs.d.ts",
+  "sideEffects": [
+    "./snippets/*"
+  ]
+}
