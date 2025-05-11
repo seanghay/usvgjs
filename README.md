@@ -1,7 +1,6 @@
-
 ## usvg for JavaScript
 
-An svg simplifier from resvg.
+An svg simplifier from [resvg](https://github.com/linebender/resvg/tree/main/crates/usvg). 
 
 ```js
 import initUSvg, { optimize } from "usvgjs";

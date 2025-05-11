@@ -1,9 +1,10 @@
 {
   "name": "usvgjs",
   "type": "module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": "seanghay/usvgjs",
   "license": "MIT",
+  "description": "usvg (micro SVG) is an SVG parser that tries to solve most of SVG complexity.",
   "author": {
     "email": "seanghay.dev@gmail.com",
     "name": "Seanghay Yath",
